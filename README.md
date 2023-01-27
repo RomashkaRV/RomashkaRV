@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="VK"/>
   </a>
   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Site Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Site Badge"/>
   </a>
 </div>
 
