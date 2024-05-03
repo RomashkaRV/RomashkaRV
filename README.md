@@ -11,9 +11,6 @@
   <a href="https://t.me/romashka_rv">
     <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="http://grebenev.space">
-    <img src="https://img.shields.io/badge/Site-orange?style=for-the-badge&logo=appveyor&logoColor=white" alt="Site Badge"/>
-  </a>
 </div>
 
 ---
